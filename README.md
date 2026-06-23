@@ -1,16 +1,13 @@
-## Hi there 👋
+# Dinesh Mandapalli
 
-<!--
-**dineshrishim/dineshrishim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science @ UC Santa Cruz | TIM Minor
 
-Here are some ideas to get you started:
+Interested in:
+- Technical Program Management
+- Product Operations
+- AI Operations
+- Business Systems
+- Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Current Focus
+Building practical AI, automation, and data-driven projects while developing skills in project coordination, process improvement, and technology strategy.
