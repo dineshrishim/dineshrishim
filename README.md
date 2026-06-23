@@ -1,4 +1,4 @@
-# Dinesh Mandapalli
+# Hey! I'm Dinesh!
 
 Computer Science @ UC Santa Cruz | TIM Minor
 
